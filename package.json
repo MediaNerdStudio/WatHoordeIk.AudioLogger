@@ -1,0 +1,24 @@
+{
+  "name": "wathoordeik.audiologger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WatHoordeIk.AudioLogger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediaNerdStudio/WatHoordeIk.AudioLogger.git"
+  },
+  "keywords": [
+    "Audio",
+    "Logger",
+    "FFmpeg"
+  ],
+  "author": "MediaNerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MediaNerdStudio/WatHoordeIk.AudioLogger/issues"
+  },
+  "homepage": "https://github.com/MediaNerdStudio/WatHoordeIk.AudioLogger#readme"
+}
